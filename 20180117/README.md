@@ -13,3 +13,6 @@ https://www.hackerrank.com/challenges/staircase/problem <br>
 
 https://www.hackerrank.com/challenges/mini-max-sum/problem <br>
 버블정렬로 배열을 정렬한 후, 인덱스 0 ~ n-1 까지 합을 min으로, 1 ~ n 까지의 합을 max로 구함.
+
+https://www.hackerrank.com/challenges/birthday-cake-candles/problem <br>
+배열을 차례대로 세면서 최대값을 찾은 후에 최대값의 개수를 셈.
